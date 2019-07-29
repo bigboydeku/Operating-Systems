@@ -9,3 +9,6 @@ Multiple Files are needed to implement custom system calls. These system calls w
 
 ## Creating stdio.h
 This was created to understand the implementation of C language libraries and how they give programs access to certain functions. I have implemented a few types of printing functions. 
+
+## Priority Changing and Scheduling
+Modification of process attributes allows us to implement priority values to processes, which can be manipulated to implement priority scheduling. The lower the priority value for a process, the higher the priority for running.
